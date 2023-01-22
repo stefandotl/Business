@@ -1,0 +1,10 @@
+global search: 300
+google: "how to  "    -> matching terms
+SERP-Features: exclude Top and bottom Ads
+more : cost per click: 0.3 - 0.5
+
+global search: 300
+google: "best "    -> matching terms
+SERP-Features: exclude Top and bottom Ads
+include word: for  (ex: best [mic] for [vocals]
+more : cost per click: 0.3 - 0.5
